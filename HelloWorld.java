@@ -23,7 +23,6 @@ public class HelloWorld {
     long free_memory = runtime.freeMemory();
     //printing free memory 
     System.out.println("Free memory: " + free_memory + " bytes");
-
   
   }
 }
